@@ -2,8 +2,10 @@
   "name": "Svelte Dark",
   "dark": true,
   "author": "Andrei Dolgorukiy",
-  "editorScheme": "/theme/SvelteDark.xml",
+  "editorScheme": "/SvelteDark.xml",
   "ui": {
-
+    "*": {
+      "background": "#242424"
+    }
   }
 }
