@@ -18,7 +18,9 @@
        Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
        Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
   <description>
-    Webstorm theme for happy Svelte development.
+    <![CDATA[
+     Webstorm theme for happy Svelte development. Made from original Svelte colors. To contribute, please make an issue or submit a PR at: https://github.com/Serpentarius13/svelte-dark
+    ]]>
   </description>
 
   <!-- Short summary of new features and bugfixes in the latest plugin version.

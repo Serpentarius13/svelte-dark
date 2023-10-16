@@ -1,9 +1,9 @@
 <scheme name="Dark" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2023-10-16T02:47:43</property>
+        <property name="created">2023-10-16T03:11:43</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2023.2.3.0.0</property>
-        <property name="modified">2023-10-16T02:47:49</property>
+        <property name="modified">2023-10-16T03:11:48</property>
     </metaInfo>
     <colors>
         <option name="ADDED_LINES_COLOR" value="549159" />
@@ -17,6 +17,7 @@
         <option name="DOCUMENTATION_COLOR" value="2b2d30" />
         <option name="DOC_COMMENT_GUIDE" value="394d3f" />
         <option name="DOC_COMMENT_LINK" value="3887a1" />
+        <option name="EDITOR_GUTTER_BACKGROUND" value="" />
         <option name="ERROR_HINT" value="402929" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="2b2d30" />
         <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="549159" />
