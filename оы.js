@@ -1,0 +1,8 @@
+class Red {
+
+}
+
+function functionless() {
+
+}
+
